@@ -6,10 +6,6 @@ The library management softwares are clunky and outdated. Library websites are o
 
 Why not create a lightweight, easy-to-use web app to replace outdated database management softwares AND create a simple, dynamic space for patrons? 
 
-Here's how it works. 
-
-
-
 #### Toolkit: HTML, JavaScript, jQuery, Skeleton CSS, Custom CSS, MySql, Sequelize, Express, Handlebars
 
 
